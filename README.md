@@ -1,1 +1,1 @@
-# hackathon
+# GradeMax
